@@ -10,7 +10,7 @@ India HCI '20 will take place online from November 6 - 8 (Tue - Thur), 2020.
 
 <p style="text-align: center; widthL: 100%;">
   <a href="https://www.indiahci.org/2020/">
-    <img src="img/logo.svg" height="112" />
+    <img src="img/logo.jpeg" height="112" />
   </a>
 </p>
 
