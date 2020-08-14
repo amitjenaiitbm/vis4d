@@ -1,4 +1,4 @@
-This workshop at [India HCI 2019](https://www.indiahci.org/2019/) invites participants those who have done Ph.D. in HCI in the past, those who are doing it currently, and those who would like to start doing it in the near future. The main goal of this workshop is to bring together Indian HCI Ph.D. students to meet and discuss ideas. Currently, with the exception of INTERACT 2017 doctoral consortium, there are less avenues for HCI students to meet, discuss and get feedback on their work.
+This workshop at [India HCI 2020](https://www.indiahci.org/2020/) invites academic researchers, designers and practitioners from industry with a keen interest in designing visualisation for emergent users of ICTs.
 
 The key purpose is to have an informal and interactive discussion about each candidates’ ongoing research, with the intention to sharpen it. We are looking for a diverse group of people who are interested in presenting their work/research at the workshop during the conference. This workshop aims to provide useful guidance for completion of the research and the initiation of a research career in a friendly and constructive atmosphere.
 
@@ -12,11 +12,11 @@ The workshop has the following objectives:
     <img src="img/hyderabad.jpg"/>
 </p>
 
-India HCI '19 will take place from November 1 - 3 (Fri - Sun), 2019 in Hyderabad, India.
+India HCI '20 will take place online from November 6 - 8 (Tue - Thur), 2020.
 
 <p style="text-align: center; widthL: 100%;">
-  <a href="https://www.indiahci.org/2019/">
-    <img src="img/logo-black-white.png" height="112" />
+  <a href="https://www.indiahci.org/2020/">
+    <img src="img/logo.svg" height="112" />
   </a>
 </p>
 
