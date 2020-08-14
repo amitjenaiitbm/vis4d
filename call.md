@@ -1,12 +1,12 @@
-# Call for Applications
+# Call for Participation
 
-## [Workshop on "What Indian HCI Doctoral researchers study?"](https://amitjenaiitbm.github.io/IndiaHCI2019/)
+## [Towards Designing Visualisations for the Emergent Users of ICTs](https://amitjenaiitbm.github.io/vis4d/)
 
-<strong>November 1 (Friday), 2019</strong>
-ISB Hyderabad, Hyderabad, India
+Online on <strong>November 6 (Tue), 2020</strong>.
 
+Coming soon!
 
-Research proposal submission deadline: <strong>October 31, 2019</strong>
+<!-- Research proposal submission deadline: <strong>October 31, 2019</strong>
 
 Participants those who have done Ph.D. in HCI in the past, those who are doing it currently, and those who would like to start doing it in near future, are invited to apply for participation in the India HCI 2019 workshop on “What Indian HCI Doctoral researchers study?”. The workshop will take place on November 1 (Fri), 2019, in India HCI 2019 at Hyderabad, India. The participants need to register for the workshop at the India HCI 2019 <strong>[registration portal](https://www.indiahci.org/indiahci_2019/register/)</strong>. The participants also need to submit a research proposal (link is provided below) for the workshop.
 
@@ -43,11 +43,13 @@ Research proposals for the workshop will be collected via <strong>[Google Form](
 
 Please note that the workshop specifically caters to young researchers (pre-Ph.D., current Ph.D., and post-Ph.D.). Hence, in the form, some of the questions will be optional for the pre-Ph.D. participants as we don't expect them to have a well-formulated research plan.
 
-The deadline for proposal submission is <strong>October 31, 2019</strong>.
+The deadline for proposal submission is <strong>October 31, 2019</strong>. -->
 
 The organisers,
 
 - [Amit Jena](https://amitjenaiitbm.github.io/amitjena/) (IITB-Monash Research Academy - Mumbai, India)
   - Email: amit.jena@monash.edu
-- [Shimmila Bhowmick](http://embeddedinteractions.com/people.html) (Indian Institute of Technology – Guwahati, India)
-  - Email: shimmila.bhowmick@gmail.com
+- [Seema Krishnakumar](https://iith.ac.in/des/seema/) (Indian Institute of Technology – Hyderabad, India)
+  - Email: seema@des.iith.ac.in
+- [Venkatesh Rajamanickam](https://info-design-lab.github.io/) (Indian Institute of Technology – Bombay, India)
+  - Email: venkatra@iitb.ac.in
