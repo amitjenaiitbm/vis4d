@@ -23,52 +23,26 @@ India HCI '20 will take place online from November 6 - 8 (Tue - Thur), 2020.
 # Organisers
 - [Amit Jena](https://amitjenaiitbm.github.io/amitjena/) (IITB-Monash Research Academy - Mumbai, India)
   - Email: amit.jena@monash.edu
-- [Shimmila Bhowmick](http://embeddedinteractions.com/people.html) (Indian Institute of Technology – Guwahati, India)
-  - Email: shimmila.bhowmick@gmail.com
+- [Seema Krishnakumar](https://iith.ac.in/des/seema/) (Indian Institute of Technology – Hyderabad, India)
+  - Email: seema@des.iith.ac.in
+- [Venkatesh Rajamanickam](https://info-design-lab.github.io/) (Indian Institute of Technology – Bombay, India)
+  - Email: venkatra@iitb.ac.in
 
-# Call for applications
+# Call for participation
 
 *Our call for applications is now [closed](call.md)!*
 
-# Participants
+<!-- # Participants
 
 <p style="text-align: center; width: 100%;">
     <img src="img/participants.jpg"/>
-</p>
+</p> -->
 
-(From left to right) <br/>
-Nikhil Prakash (R.V. College of Engineering, Bangalore, India) <br/>
-Pranjal Protim Borah (EI LAB, IIT Guwahati, India) <br/>
-Amit Jena (IITB-Monash Research Academy, Mumbai, India) <br/>
-Vidya Sarangapani (Open Lab, England) <br/>
-Chandni Murmu (Gramener, Hyderabad, India) <br/>
-Asad Ali Junaid (Adobe Inc., Bengaluru, India) <br/>
-Nishita Nirmal (IDC School of Design, IIT Bombay, Mumbai, India) <br/>
-Ankita Diwan (Shipsy, Gurgaon, India) <br/>
-Nagraj Emmadi (Wipro Limited, Hyderabad, India) <br/>
 
 # Program
 
 <table>
 <tr>
-	<th colspan="2">Friday November 1</th>
-</tr>
-<tr>
-	<td width="50">11:00</td><td width="500">Intro & overview</td>
-</tr>
-<tr>
-	<td>11:15</td><td>Presentation by Amit Jena</td>
-</tr>
-<tr>
-	<td>11:45</td><td>Presentation by Pranjal Pratim Borah</td>
-</tr>
-<tr>
-	<td>12:15</td><td>Lunch</td>
-</tr>
-<tr>
-	<td>15:00</td><td>Presentation by Vidya Sarangapani</td>
-</tr>
-<tr>
-	<td>15:30</td><td>Open discussion on Ph.D. research</td>
+	<th colspan="2">TBC</th>
 </tr>
 </table>
