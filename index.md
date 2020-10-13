@@ -22,10 +22,22 @@ But data visualisation design is built upon the studies of a highly educated sub
 	<th colspan="3">Thursday November 5</th>
 </tr>
 <tr>
-	<td>09:15</td><td>Introduction and </td><td>The Session will introduce the participants and their experience in the field of Visualisation Design.</td>
+	<td>09:00</td><td>Introduction and Overview</td><td>The Session will introduce the participants and their experience in the field of Visualisation Design.</td>
 </tr>
 <tr>
-	<td>09:15</td><td>Introduction and </td><td>The Session will introduce the participants and their experience in the field of Visualisation Design.</td>
+	<td>09:15</td><td>Introduction to Data and Information Visualisation (lecture)</td><td>We will kick off the workshop with a lecture on what we understand by Data and Information Visualisation, its trends and challenges. This will allow participants to be in the same level of understanding as we are.</td>
+</tr>
+<tr>
+	<td>09:45</td><td>Contemporary challenges in Data and Information Visualisation (discussion)</td><td>The discussion is a platform for sharing our experiences based on the lecture. This session will also ask participants to bring examples that can fit into this classification.</td>
+</tr>
+<tr>
+	<td>10:15</td><td>A task based analysis of selected visualisations (Group Activity)</td><td>The task involves classifying the contemporary visualisations based on certain parameters. The activity shall scale the visualisation for their ease for an emerging user in Indian context.</td>
+</tr>
+<tr>
+	<td>11:00</td><td>Presentation of the analysis by each group</td><td>The outcome will be presented to the group for a final consensus.</td>
+</tr>
+<tr>
+	<td>11:30</td><td>Compiling final thoughts on the exercise</td><td>The group will decide how the final outcome can be presented in the research context of India HCI.</td>
 </tr>
 </table>
 
