@@ -1,18 +1,8 @@
 This workshop at [India HCI 2020](https://www.indiahci.org/2020/) invites academic researchers, designers and practitioners from industry with a keen interest in designing visualisation for emergent users of ICTs.
 
-The participants are encouraged to share their experience in the field of Data and Information visualisation in the form of a short slide presentation as written points/images.
+Visualising data is effective when done right. When people can interpret the visualisation by asking more questions on the information displayed versus how or what is displayed, then we know the visualisation is done right. So to be effective, it is essential to design the right visualisations for the data to allow users to interpret and make decisions based on what they observe.
 
-The workshop has the following objectives:
-- TBA.
-
-
-India HCI '20 will take place online from November 6 - 8 (Tue - Thur), 2020.
-
-<p style="text-align: center; widthL: 100%;">
-  <a href="https://www.indiahci.org/2020/">
-    <img src="img/logo.jpeg" height="112" />
-  </a>
-</p>
+But data visualisation design is built upon the studies of a highly educated subset of the populations who have easy access to and extended familiarity with Information and communications technologies (ICTs). Lately, the population with access to the internet and mobile technologies have reached a significant number. The workshop will start the conversation on how to design visualisations for the Emergent Users of ICTs, with the objective of understanding the intricacies for such design. The participants will be introduced to the various types of visualisations that we commonly see in our daily life, discuss the pros and cons of each, and try to understand how the Emergent Users of ICTs will interpret these visualisations. From the workshop, we aim to draw design guidelines, open questions and hypothesis that will need further study.
 
 # Organisers
 - [Amit Jena](https://amitjenaiitbm.github.io/amitjena/) (IITB-Monash Research Academy - Mumbai, India)
