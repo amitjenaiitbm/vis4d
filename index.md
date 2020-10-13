@@ -6,7 +6,7 @@ But data visualisation design is built upon the studies of a highly educated sub
 
 # Call for participation
 
-*Coming Soon*
+Interested participants need to register at [India HCI 2020](https://www.indiahci.org/2020/conference/registrations/). After you have registered, please fill this [form](https://forms.gle/LYuhH4eV6cyMptJF8).
 
 # Program
 
