@@ -8,13 +8,6 @@ But data visualisation design is built upon the studies of a highly educated sub
 
 *Coming Soon*
 
-<!-- # Participants
-
-<p style="text-align: center; width: 100%;">
-    <img src="img/participants.jpg"/>
-</p> -->
-
-
 # Program
 
 <table>
