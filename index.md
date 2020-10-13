@@ -27,6 +27,12 @@ But data visualisation design is built upon the studies of a highly educated sub
 
 <table>
 <tr>
-	<th colspan="2">TBC</th>
+	<th colspan="3">Thursday November 5</th>
+</tr>
+<tr>
+	<td>09:15</td><td>Introduction and </td><td>The Session will introduce the participants and their experience in the field of Visualisation Design.</td>
+</tr>
+<tr>
+	<td>09:15</td><td>Introduction and </td><td>The Session will introduce the participants and their experience in the field of Visualisation Design.</td>
 </tr>
 </table>
