@@ -6,31 +6,46 @@ But data visualisation design is built upon the studies of a highly educated sub
 
 # Call for participation
 
-Interested participants need to register at [India HCI 2020](https://www.indiahci.org/2020/conference/registrations/). After you have registered, please fill this [form](https://forms.gle/LYuhH4eV6cyMptJF8).
+Interested participants need to register at [India HCI 2020](https://www.indiahci.org/2020/conference/registrations/).
 
 # Program
 
 <table>
 <tr>
-	<th colspan="3">Thursday November 5</th>
+	<th colspan="2">Thursday November 5 (Timezone: IST)</th>
 </tr>
 <tr>
-	<td>09:00 IST</td><td>Introduction and Overview</td><td>The Session will introduce the participants and their experience in the field of Visualisation Design.</td>
+	<td>09:00 AM</td><td>Icebreaking and Introduction</td>
 </tr>
 <tr>
-	<td>09:15 IST</td><td>Introduction to Data and Information Visualisation (lecture)</td><td>We will kick off the workshop with a lecture on what we understand by Data and Information Visualisation, its trends and challenges. This will allow participants to be in the same level of understanding as we are.</td>
+	<td>09:20 AM</td><td>Mini activity-1 (Number visualisation exercise)</td>
 </tr>
 <tr>
-	<td>09:45 IST</td><td>Contemporary challenges in Data and Information Visualisation (discussion)</td><td>The discussion is a platform for sharing our experiences based on the lecture. This session will also ask participants to bring examples that can fit into this classification.</td>
+	<td>09:35 AM</td><td>Data and Information Visualisation (Seema)</td>
 </tr>
 <tr>
-	<td>10:15 IST</td><td>A task based analysis of selected visualisations (Group Activity)</td><td>The task involves classifying the contemporary visualisations based on certain parameters. The activity shall scale the visualisation for their ease for an emerging user in Indian context.</td>
+	<td>09:55 AM</td><td>Mini activity-2 (Different visualisation types)</td>
 </tr>
 <tr>
-	<td>11:00 IST</td><td>Presentation of the analysis by each group</td><td>The outcome will be presented to the group for a final consensus.</td>
+	<td>10:10 AM</td><td>Marks and Channels (Amit)</td>
 </tr>
 <tr>
-	<td>11:30 IST</td><td>Compiling final thoughts on the exercise</td><td>The group will decide how the final outcome can be presented in the research context of India HCI.</td>
+	<td>10:30 AM</td><td>Break + Group Formation</td>
+</tr>
+<tr>
+	<td>10:35 AM</td><td>Emergent users of ICTs(Amit)</td>
+</tr>
+<tr>
+	<td>10:45 AM</td><td>Group activity: Visualisation Critique and Re-Design</td>
+</tr>
+<tr>
+	<td>11:30 AM</td><td>Presentation by groups</td>
+</tr>
+<tr>
+	<td>11:45 AM</td><td>Discussion</td>
+</tr>
+<tr>
+	<td>11:55 AM</td><td>Closing remarks and moving forward</td>
 </tr>
 </table>
 
