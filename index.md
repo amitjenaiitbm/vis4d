@@ -12,7 +12,7 @@ Interested participants need to register at [India HCI 2020](https://www.indiahc
 
 <table>
 <tr>
-	<th colspan="2">Thursday November 5 (Timezone: IST)</th>
+	<th colspan="2">5th November 2020, Thursday (Timezone: IST)</th>
 </tr>
 <tr>
 	<td>09:00 AM</td><td>Icebreaking and Introduction</td>
